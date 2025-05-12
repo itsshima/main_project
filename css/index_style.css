@@ -35,10 +35,11 @@ aside {
   font-size: 10px;
 }
 .tozih1 {
-  margin: 2px;
+  margin-bottom: 1px;
+  margin-top: 8px;
 }
 .tozih2 {
-  margin: 2px;
+  margin-top: 7px;
 }
 .avatar {
   width: 100px;
@@ -47,7 +48,7 @@ aside {
   border-radius: 100%;
   background-image: url("../images/86e55fada017dfbfaa0f5f6cc5838aed.jpg");
   background-size: contain;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 .navlink {
